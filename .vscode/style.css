@@ -10,3 +10,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 h1{
     color: var(--Blu);
 }
+.color-navbar{
+background-color: var(--Blu);
+border: white;
+}
+.size-logo{
+    height: 50px;
+    width: 50px;
+}
+
