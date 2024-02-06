@@ -1,0 +1,12 @@
+body{
+font-family: 'Jura', sans-serif;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+    font-family: 'Orbitron', sans-serif;
+}
+:root{
+    --Blu:rgb(43, 157, 244);
+}
+h1{
+    color: var(--Blu);
+}
